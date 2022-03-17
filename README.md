@@ -3,6 +3,7 @@
 ## Overview and Origin
 
 * Name of company
+
 Forter
 
 * When was the company incorporated?
@@ -17,6 +18,7 @@ Forter
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
+
 Forter’s Decision-as-a-Service technology is a personalized and automated decision maker for the retail and financial industries. The automated 'Decisioning' system tracks trends and flags fraudulent spending in less than one second. Payments are processed by Forter's technology and marked as approved or flagged for fraud in order to give businesses a more holistic view of their revenues.
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
