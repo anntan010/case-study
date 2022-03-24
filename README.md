@@ -38,7 +38,11 @@ Customers are primarily ecommerce businesses. The global ecommerce market is exp
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
+Forter claims that it has more depth of data than any other competitor and this will help it triumph. Its database covers more than one billion customers globally.
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Forter's technology is fraud analytics. This includes behavioral analysis of customers' established shopping patterns, soft linking (the ability to trace relationships between users even when no overt information is shared) and other techniques. Forter offers clients the option of full restitution in the event of a chargeback.
 
 ## Landscape:
 
